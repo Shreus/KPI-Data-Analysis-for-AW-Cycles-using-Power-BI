@@ -10,21 +10,15 @@ Objectives completed:
 - Created new calculated columns and DAX measures
 - Designed an interactive report to analyze and visualize the data
 
-
-
-
+<b>Executive Summary </b>
 
 ![alt tag](https://github.com/Shreus/KPI-Data-Analysis-for-AW-Cycles-using-Power-BI/blob/main/Executive%20Summary.PNG)
 
 
-
-
+<b> Product Detailed Summary </b>
 
 ![alt tag](https://github.com/Shreus/KPI-Data-Analysis-for-AW-Cycles-using-Power-BI/blob/main/Product%20Details.PNG)
 
 
-
-
-
-
+<b> Customer Detailed Summary</b>
 ![alt tag](https://github.com/Shreus/KPI-Data-Analysis-for-AW-Cycles-using-Power-BI/blob/main/Customer%20Details.PNG)
