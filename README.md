@@ -22,4 +22,4 @@ Objectives completed:
 </br> </br>
 
 <b> Customer Detailed Summary</b> 
-![alt tag](https://github.com/Shreus/KPI-Data-Analysis-for-AW-Cycles-using-Power-BI/blob/main/Customer%20Details.PNG)
+![alt tag](https://github.com/Shreus/KPI-Data-Analysis-for-AW-Cycles-using-Power-BI/blob/main/Customer%20Details.PNG) 
