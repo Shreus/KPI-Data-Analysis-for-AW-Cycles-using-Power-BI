@@ -11,3 +11,5 @@ Objectives completed:
 - Designed an interactive report to analyze and visualize the data
 
 ![alt tag](https://github.com/Shreus/KPI-Data-Analysis-for-AW-Cycles-using-Power-BI/blob/main/Executive%20Summary.PNG)
+![alt tag](https://github.com/Shreus/KPI-Data-Analysis-for-AW-Cycles-using-Power-BI/blob/main/Product%20Details.PNG)
+![alt tag](https://github.com/Shreus/KPI-Data-Analysis-for-AW-Cycles-using-Power-BI/blob/main/Customer%20Details.PNG)
